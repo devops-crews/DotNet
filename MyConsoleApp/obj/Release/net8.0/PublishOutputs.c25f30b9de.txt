@@ -1,0 +1,5 @@
+D:\WorkSpace\NET\MyConsoleApp\bin\Release\net8.0\publish\MyConsoleApp.exe
+D:\WorkSpace\NET\MyConsoleApp\bin\Release\net8.0\publish\MyConsoleApp.dll
+D:\WorkSpace\NET\MyConsoleApp\bin\Release\net8.0\publish\MyConsoleApp.deps.json
+D:\WorkSpace\NET\MyConsoleApp\bin\Release\net8.0\publish\MyConsoleApp.runtimeconfig.json
+D:\WorkSpace\NET\MyConsoleApp\bin\Release\net8.0\publish\MyConsoleApp.pdb
